@@ -27,20 +27,20 @@ Given Diwali sales data set. This dataset contains sales of the Diwali sales. Th
 
 ## Categorical Analysis
 
-Gender:	Number of customers by gender
-Age Group:	Customer distribution by age group	
-Marital_Status:	Count of married vs. unmarried
-Zone:	Customer distribution by zone
-Occupation:	Number of customers in each occupation
-Product_Category:	Most and least common product categories
-Product_ID:	Most frequently ordered products
-Cust_name:	Number of unique customers and repeated names	
-User_ID:	Number of unique users and duplicate IDs
+- Gender:	Number of customers by gender
+- Age Group:	Customer distribution by age group	
+- Marital_Status:	Count of married vs. unmarried
+- Zone:	Customer distribution by zone
+- Occupation:	Number of customers in each occupation
+- Product_Category:	Most and least common product categories
+- Product_ID:	Most frequently ordered products
+- Cust_name:	Number of unique customers and repeated names	
+- User_ID:	Number of unique users and duplicate IDs
 
 ## Bivariate Analysis
 
-Gender and Amount
-Age group and Amount
-Occupation and Amount
-State and Amount
-Marital status and Amount
+- Gender and Amount
+- Age group and Amount
+- Occupation and Amount
+- State and Amount
+- Marital status and Amount
