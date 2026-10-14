@@ -4,7 +4,7 @@
 We are prodided with the Diwali data set. 
 Obejctive is to analyse the sales data set and perform EDA and draw useful insights.
 
-##Data set
+## Data set
 Given Diwali sales data set. This dataset contains sales of the Diwali sales. This dataset contains the following features. 
 - User_ID : This contains the ID of the customers. It has non-null values.
 - Cust_name : It contains the customer name. It has non-null values.
