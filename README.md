@@ -1,4 +1,4 @@
-# Diwali data analysis
+# Diwali Sales data analysis
 
 ## Objective
 We are prodided with the Diwali data set. 
